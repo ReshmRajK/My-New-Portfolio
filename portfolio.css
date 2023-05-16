@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+.home-section{
+    padding: 15rem 0rem;
+}
+.about-section{
+    padding: 2rem 0rem;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.about-section-content{
+    text-align: justify;
+}
+.service-section{
+    padding: 2rem 0rem;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.service-content{
+    text-align: justify;
+}
+.project-section{
+    padding: 2rem 0rem;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.project-content{
+    text-align: justify;
+}
+.more-about-section{
+    padding: 2rem 0rem;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.more-about{
+    text-align: justify;
+}
+.personal-details-section ul{
+    list-style: none;
+}
+.contact-section{
+    padding: 2rem 0rem;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.home-section p{
+    font-size: 5rem;
+}
+.menu-section{
+    padding-left: 15rem;
+}
+@media(max-width:990px){
+    .menu-section{
+        padding-left: 0px;
+    }
+    .home-section p{
+        
+    }
+    
+}
+
+
+
+
+
+
+
+
+
