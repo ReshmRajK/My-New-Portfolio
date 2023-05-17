@@ -5,7 +5,10 @@ body{
 }
 .home-section{
     padding: 15rem 0rem;
+    /* background-image: url("image/reshma.jpg"); */
+    /* opacity: 0.5; */
 }
+
 .about-section{
     padding: 2rem 0rem;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -34,9 +37,10 @@ body{
 .more-about{
     text-align: justify;
 }
-.personal-details-section ul{
+ul{
     list-style: none;
 }
+
 .contact-section{
     padding: 2rem 0rem;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -50,11 +54,10 @@ body{
 @media(max-width:990px){
     .menu-section{
         padding-left: 0px;
+    }  
+    .about-me{
+        padding-top: 20px;
     }
-    .home-section p{
-        
-    }
-    
 }
 
 
